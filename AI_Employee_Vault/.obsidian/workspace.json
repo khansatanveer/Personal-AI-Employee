@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Done/20260220_082633_TEST_Bronze_Tier_Task.md",
+                "file": "Dashboard.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "20260220_082633_TEST_Bronze_Tier_Task"
+              "title": "Dashboard"
             }
           }
         ]
@@ -185,24 +185,31 @@
   },
   "active": "349726c9cedf923e",
   "lastOpenFiles": [
-    "Plans/PLAN_20260220_082812_20260220_082633_TEST_Bronze_Tier_Task.md.md",
-    "Plans/PLAN_20260220_082131_Test_Request.md.md",
+    "Needs_Action/task-file.md",
+    "Dashboard.md",
     "Company_Handbook.md",
+    "Needs_Action/20260226_042748_task_meeting.md",
+    "Needs_Action/20260226_042714_task_meeting.md",
+    "Needs_Action/20260226_042659_Untitled.md",
+    "Needs_Action/20260226_042651_Untitled.md",
+    "Logs/demo_log_2026-02-20.md",
+    "Inbox/task_meeting.md",
+    "Plans/PLAN_20260220_082812_20260220_082633_TEST_Bronze_Tier_Task.md.md",
+    "Inbox/task_meeting/Untitled.md",
+    "Inbox/task_meeting",
+    "Logs/file_watcher_2026-02-26.log",
+    "Plans/PLAN_20260220_082131_Test_Request.md.md",
+    "Inbox/TEST_Task_001.md",
+    "Inbox/Test_Request.md",
     "Done/20260220_082633_TEST_Bronze_Tier_Task.md",
     "Dashboard.md.tmp.12884.1771558342400",
     "Update_Dashboard_Counts.py",
     "Update_Dashboard_Counts.py.tmp.12884.1771558140340",
-    "Logs/demo_log_2026-02-20.md",
     "Bronze_Tier_Demo.py.tmp.12884.1771558101761",
     "Bronze_Tier_Demo.py.tmp.12884.1771558071574",
     "__pycache__/agent_skills.cpython-313.pyc",
     "__pycache__",
     "Bronze_Tier_Demo.py",
-    "Bronze_Tier_Demo.py.tmp.12884.1771558036789",
-    "Dashboard.md",
-    "Needs_Action/20260220_082633_TEST_Bronze_Tier_Task.md",
-    "Inbox/Test_Request.md",
-    "agent_skills.py",
-    "Inbox/TEST_Task_001.md"
+    "Needs_Action/20260220_082633_TEST_Bronze_Tier_Task.md"
   ]
 }
